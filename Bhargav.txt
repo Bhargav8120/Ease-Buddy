@@ -1,0 +1,23 @@
+Date of admission: 29/10/2021 11:27:01
+Name : Bhargav Patel
+Address : Navsari
+Contact Number : 123456789
+Age : 19
+Gender : Male
+Blood Group : A+ve
+Any Major disease suffered earlier : No
+Patient ID : 29301360472
+
+********************************************************************
+
+
+Description of the day:29/10/2021 11:27:32
+Doctor appointed: yes
+Symptoms : Cough
+Diagnosis : Yes
+Medicines : Any
+Addmission Required? : Yes
+Type of ward : AC
+
+*************************************************************************
+
